@@ -1,0 +1,32 @@
+
+.contenedorgeneral{
+
+    width: 100%;
+    height: 400px;
+    display: flex;
+    margin-top: 70px;
+    flex-wrap: wrap;
+}
+.noticia{
+   
+    width: 400px;
+  height: 400px;
+    margin: auto;
+}
+.titulo{
+    margin-top: 28px;
+    text-align: center;
+}
+.descri{
+   font-size: 14px; 
+   font-weight: 900;
+   font-family: sans-serif;
+}
+.fecha{
+    margin-top: 20px;
+}
+
+.imagen{
+    width: 400px;
+    border-radius: 10px;
+}

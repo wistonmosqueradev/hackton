@@ -1,0 +1,15 @@
+.contenedor_footer{
+    background-color: rgb(226, 223, 220);
+    width: 100%;
+    height: 400px;
+}
+.contenedor_elemento{
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: antiquewhite;
+    width: 90%;
+    height: 300px;
+    margin: auto;
+}
